@@ -14,5 +14,5 @@ This repository serves as a practise code and resource hub for Jimma American Co
 I'm a Training Instructor, Full Stack Web Development at Jimma American corner a part of a 6-month volunteerism program.
 
 </br>
-I have certified for Leading summer class under the American Spaces Volunteer Program (ASVP) Summer 2018 - My Activity was Tutoring high schoolers on Website Development and Designing. Since that time currently I'm also I'm participating in the US Embassy under the American Space voluntarism program in leading and teaching FullStack web development since the summer of 2021.
+I have certified for Leading summer class under the American Spaces Volunteer Program (ASVP) Summer 2018 - My Activity was Tutoring, and guiding for participant newbies on Website Development and Designing. Since that time currently I'm also I'm participating in the US Embassy under the American Space voluntarism program in leading and teaching FullStack web development since the summer of 2021.
 
